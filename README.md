@@ -54,8 +54,6 @@ For a complete, working example, refer to the [login example](https://github.com
     $ npm install --dev
     $ make test
 
-[![Build Status](https://secure.travis-ci.org/yuri-karadzhov/passport-hash.png)](http://travis-ci.org/yuri-karadzhov/passport-hash)
-
 ## Credits
 
   - [Yuri Karadzhov](https://github.com/yuri-karadzhov)
