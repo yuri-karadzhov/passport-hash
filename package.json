@@ -1,11 +1,11 @@
 {
   "name": "passport-hash",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Hash authentication strategy for Passport.",
   "author": {
     "name": "Yuri Karadzhov",
     "email": "yuri.karadzhov@gmail.com",
-    "url": "http://a-tease.com/"
+    "url": "http://skwibl.com/"
   },
   "repository": {
     "type": "git",
@@ -20,7 +20,7 @@
     "passport": "~0.1.1"
   },
   "devDependencies": {
-    "vows": "0.6.x"
+    "vows": "*"
   },
   "scripts": {
     "test": "NODE_PATH=lib node_modules/.bin/vows test/*-test.js"
