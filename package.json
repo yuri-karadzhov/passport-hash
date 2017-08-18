@@ -1,8 +1,10 @@
 {
   "name": "passport-hash",
-  "version": "0.6.0",
-  "description": "Hash authentication strategy for Passport.",
+  "version": "0.6.1",
+  "description": "Hash authentication strategy for Passport. with Express 4.x parsing",
   "author": {
+    "name": "Martin Romañuk",
+    "email": "mromanuk@me.com",
     "name": "Yuri Karadzhov",
     "email": "yuri.karadzhov@gmail.com",
     "url": "http://skwibl.com/"
